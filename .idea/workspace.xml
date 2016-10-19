@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f609b95-674d-43f0-9891-a66f0268e186" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/error.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/springapp/mvc/Controller/userBeanController.class" afterPath="$PROJECT_DIR$/target/classes/com/springapp/mvc/Controller/userBeanController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/springapp/mvc/DAO/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/com/springapp/mvc/DAO/service/UserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/springapp/mvc/DAO/serviceImp/UserServiceImp.class" afterPath="$PROJECT_DIR$/target/classes/com/springapp/mvc/DAO/serviceImp/UserServiceImp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/springapp/mvc/models/UserBean.class" afterPath="$PROJECT_DIR$/target/classes/com/springapp/mvc/models/UserBean.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/com/springapp/mvc/Controller/userBeanController.class" afterPath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/com/springapp/mvc/Controller/userBeanController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/com/springapp/mvc/DAO/service/UserService.class" afterPath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/com/springapp/mvc/DAO/service/UserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/com/springapp/mvc/DAO/serviceImp/UserServiceImp.class" afterPath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/com/springapp/mvc/DAO/serviceImp/UserServiceImp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/com/springapp/mvc/models/UserBean.class" afterPath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/com/springapp/mvc/models/UserBean.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/userBeanController.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/userBeanController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/DAO/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/DAO/service/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/DAO/serviceImp/UserServiceImp.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/DAO/serviceImp/UserServiceImp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/UserBean.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/models/UserBean.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/DbConfiguration.properties" afterPath="$PROJECT_DIR$/src/main/resources/DbConfiguration.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addpage.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addpage.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/loginpage.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/loginpage.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/welcome.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/welcome.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DbConfiguration.properties" afterPath="$PROJECT_DIR$/target/classes/DbConfiguration.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/rabin/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/DbConfiguration.properties" afterPath="$PROJECT_DIR$/target/rabin/WEB-INF/classes/DbConfiguration.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/WEB-INF/pages/addpage.jsp" afterPath="$PROJECT_DIR$/target/rabin/WEB-INF/pages/addpage.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/WEB-INF/pages/loginpage.jsp" afterPath="$PROJECT_DIR$/target/rabin/WEB-INF/pages/loginpage.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/rabin/WEB-INF/pages/welcome.jsp" afterPath="$PROJECT_DIR$/target/rabin/WEB-INF/pages/welcome.jsp" />
     </list>
     <ignored path="FirstProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1176,16 +1152,16 @@
       <workItem from="1476737056619" duration="15154000" />
       <workItem from="1476824403314" duration="5732000" />
       <workItem from="1476834283949" duration="6234000" />
-      <workItem from="1476896242332" duration="5469000" />
+      <workItem from="1476896242332" duration="5513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101253000" />
+    <option name="totallyTimeSpent" value="101297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1368" height="721" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1196,10 +1172,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3872054" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3872054" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6969697" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22727273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />

@@ -53,7 +53,7 @@ p{
 <form:form action="dologin" commandName="userBean" method="get">
     <p>
     <label >username</label></br>
-    <input type="text" name="userId">
+    <input type="text" name="userId">  <!--  you forgot to include attribute 'name' inside tag -> <input>  -->
 </p>
     <p>
     <label>password</label></br>
